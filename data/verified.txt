@@ -1,0 +1,12 @@
+# =====================================================
+# USUARIOS VERIFICADOS NO INSTAGRAM
+# =====================================================
+# Adicione aqui o @ dos usuarios que possuem o selo
+# de verificado no Instagram. Um por linha.
+# Linhas com # sao comentarios e sao ignoradas.
+# =====================================================
+
+@dh4lin
+@nocaute_oficial
+@tatame_queen
+@boxe_feminino

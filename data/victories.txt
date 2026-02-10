@@ -1,0 +1,18 @@
+# =====================================================
+# RANKING RDS - REGISTRO DE VITORIAS
+# =====================================================
+# Para registrar uma vitoria, basta adicionar o @ do
+# usuario em uma nova linha. Cada linha = 1 vitoria.
+#
+# Exemplo: se @fighter_01 venceu 3 vezes, escreva:
+# @fighter_01
+# @fighter_01
+# @fighter_01
+#
+# O ranking e calculado automaticamente!
+# Linhas que comecam com # sao ignoradas (comentarios).
+# Linhas em branco tambem sao ignoradas.
+# =====================================================
+
+@pedro_hen077
+
