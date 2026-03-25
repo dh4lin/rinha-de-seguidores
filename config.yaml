@@ -1,0 +1,21 @@
+language: PT
+screen:
+  width: 1110
+  height: 1110
+  fps: 120
+particles:
+  min_radius: 1
+  max_radius: 100
+  max_hp: 70
+  max_speed: 25
+  acc_magnitude: 0.01
+colors:
+  background: [0,0,0]
+images:
+  path: "D:\\Users\\Dhalin_C\\Videos\\Rinha de Seguidores\\portable_batalhaseguidores\\img"
+  local: true
+plan:
+  followers_limit: unlimited
+  download_watermark: false
+  background_color_control: true
+  music_limit: unlimited
